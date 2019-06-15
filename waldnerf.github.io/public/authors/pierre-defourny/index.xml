@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pierre Defourny on François Waldner</title>
+    <link>/authors/pierre-defourny/</link>
+    <description>Recent content in Pierre Defourny on François Waldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/pierre-defourny/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Local adjustments of image spatial resolution to optimize large-area mapping in the era of big data</title>
+      <link>/publication/journal-article/2018-01-01_waldner2018local/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2018-01-01_waldner2018local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social capital and transaction costs in millet markets</title>
+      <link>/publication/journal-article/2018-01-01_jacques2018social/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2018-01-01_jacques2018social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An information-based criterion to measure pixel-level thematic uncertainty in land cover classifications</title>
+      <link>/publication/journal-article/2016-01-01_bogaert2016information/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2016-01-01_bogaert2016information/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cropland Mapping over Sahelian and Sudanian Agrosystems: A Knowledge-Based Approach Using PROBA-V Time Series at 100-m</title>
+      <link>/publication/journal-article/2016-01-01_lambert2016cropland/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2016-01-01_lambert2016cropland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sentinel-2’s Potential for Sub-Pixel Landscape Feature Detection</title>
+      <link>/publication/journal-article/2016-01-01_radoux2016sentinel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2016-01-01_radoux2016sentinel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A dynamic vegetation senescence indicator for near-real-time desert locust habitat monitoring with MODIS</title>
+      <link>/publication/journal-article/2015-01-01_renier2015dynamic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_renier2015dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generic algorithm to estimate LAI, FAPAR and FCOVER variables from SPOT4\_HRVIR and landsat sensors: evaluation of the consistency and comparison with ground measurements</title>
+      <link>/publication/journal-article/2015-01-01_li2015generic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_li2015generic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An automated method for annual cropland mapping along the season for various globally-distributed agrosystems using high spatial and temporal resolution time series</title>
+      <link>/publication/journal-article/2015-01-01_matton2015automated/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_matton2015automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automated annual cropland mapping using knowledge-based temporal features</title>
+      <link>/publication/journal-article/2015-01-01_waldner2015automated/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_waldner2015automated/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land cover and crop type classification along the season based on biophysical variables retrieved from multi-sensor high-resolution time series</title>
+      <link>/publication/journal-article/2015-01-01_waldner2015land/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_waldner2015land/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maize Leaf Area Index Retrieval from Synthetic Quad Pol SAR Time Series Using the Water Cloud Model</title>
+      <link>/publication/journal-article/2015-01-01_beriaux2015maize/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_beriaux2015maize/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping priorities to focus cropland mapping activities: Fitness assessment of existing global, regional and national cropland maps</title>
+      <link>/publication/journal-article/2015-01-01_waldner2015mapping/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_waldner2015mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operational monitoring of the Desert Locust habitat with Earth Observation: An assessment</title>
+      <link>/publication/journal-article/2015-01-01_waldner2015operational/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_waldner2015operational/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

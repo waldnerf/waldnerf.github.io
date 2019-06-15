@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antonio {Di Gregorio} on François Waldner</title>
+    <link>/authors/antonio-di-gregorio/</link>
+    <description>Recent content in Antonio {Di Gregorio} on François Waldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/antonio-di-gregorio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A Unified Cropland Layer at 250 m for Global Agriculture Monitoring</title>
+      <link>/publication/journal-article/2016-01-01_waldner2016unified/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2016-01-01_waldner2016unified/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping priorities to focus cropland mapping activities: Fitness assessment of existing global, regional and national cropland maps</title>
+      <link>/publication/journal-article/2015-01-01_waldner2015mapping/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_waldner2015mapping/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

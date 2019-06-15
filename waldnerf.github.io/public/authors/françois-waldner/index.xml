@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>François Waldner</title>
+    <link>/authors/fran%C3%A7ois-waldner/</link>
+    <description>Recent content on François Waldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/fran%C3%A7ois-waldner/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A comparison of global agricultural monitoring systems and current gaps</title>
+      <link>/publication/journal-article/2019-01-01_fritz2019comparison/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2019-01-01_fritz2019comparison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conflation of expert and crowd reference data to validate global binary thematic maps</title>
+      <link>/publication/journal-article/2019-01-01_waldner2019conflation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2019-01-01_waldner2019conflation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roadside collection of training data for cropland mapping is viable when environmental and management gradients are surveyed</title>
+      <link>/publication/journal-article/2019-01-01_waldner2019roadside/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2019-01-01_waldner2019roadside/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-psychological and management drivers explain farm level wheat yield gaps in Australia</title>
+      <link>/publication/journal-article/2019-01-01_zhang2019socio/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2019-01-01_zhang2019socio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Local adjustments of image spatial resolution to optimize large-area mapping in the era of big data</title>
+      <link>/publication/journal-article/2018-01-01_waldner2018local/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2018-01-01_waldner2018local/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping Cropland abandonment in the Aral Sea Basin with MODIS time series</title>
+      <link>/publication/journal-article/2018-01-01_low2018mapping/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2018-01-01_low2018mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional-scale monitoring of cropland intensity and productivity with multi-source satellite image time series</title>
+      <link>/publication/journal-article/2018-01-01_low2018regional/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2018-01-01_low2018regional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A generic algorithm to estimate LAI, FAPAR and FCOVER variables from SPOT4\_HRVIR and landsat sensors: evaluation of the consistency and comparison with ground measurements</title>
+      <link>/publication/journal-article/2015-01-01_li2015generic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_li2015generic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maize Leaf Area Index Retrieval from Synthetic Quad Pol SAR Time Series Using the Water Cloud Model</title>
+      <link>/publication/journal-article/2015-01-01_beriaux2015maize/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_beriaux2015maize/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

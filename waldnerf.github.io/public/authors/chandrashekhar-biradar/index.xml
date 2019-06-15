@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chandrashekhar Biradar on François Waldner</title>
+    <link>/authors/chandrashekhar-biradar/</link>
+    <description>Recent content in Chandrashekhar Biradar on François Waldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/chandrashekhar-biradar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mapping Cropland abandonment in the Aral Sea Basin with MODIS time series</title>
+      <link>/publication/journal-article/2018-01-01_low2018mapping/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2018-01-01_low2018mapping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regional-scale monitoring of cropland intensity and productivity with multi-source satellite image time series</title>
+      <link>/publication/journal-article/2018-01-01_low2018regional/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2018-01-01_low2018regional/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timely monitoring of Asian Migratory locust habitats in the Amudarya delta, Uzbekistan using time series of satellite remote sensing vegetation index</title>
+      <link>/publication/journal-article/2016-01-01_low2016timely/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2016-01-01_low2016timely/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zvi Hochman on François Waldner</title>
+    <link>/authors/zvi-hochman/</link>
+    <description>Recent content in Zvi Hochman on François Waldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/zvi-hochman/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roadside collection of training data for cropland mapping is viable when environmental and management gradients are surveyed</title>
+      <link>/publication/journal-article/2019-01-01_waldner2019roadside/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2019-01-01_waldner2019roadside/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Socio-psychological and management drivers explain farm level wheat yield gaps in Australia</title>
+      <link>/publication/journal-article/2019-01-01_zhang2019socio/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2019-01-01_zhang2019socio/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Damien C Jacques on François Waldner</title>
+    <link>/authors/damien-c-jacques/</link>
+    <description>Recent content in Damien C Jacques on François Waldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/damien-c-jacques/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The impact of training class proportions on binary cropland classification</title>
+      <link>/publication/journal-article/2017-01-01_waldner2017impact/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2017-01-01_waldner2017impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The academic, economic and societal impacts of Open Access: an evidence-based review</title>
+      <link>/publication/journal-article/2016-01-01_tennant2016academic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2016-01-01_tennant2016academic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

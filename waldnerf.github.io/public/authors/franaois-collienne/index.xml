@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FranA?ois Collienne on François Waldner</title>
+    <link>/authors/franaois-collienne/</link>
+    <description>Recent content in FranA?ois Collienne on François Waldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/franaois-collienne/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Maize Leaf Area Index Retrieval from Synthetic Quad Pol SAR Time Series Using the Water Cloud Model</title>
+      <link>/publication/journal-article/2015-01-01_beriaux2015maize/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_beriaux2015maize/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CA(C)line Lamarche on François Waldner</title>
+    <link>/authors/cacline-lamarche/</link>
+    <description>Recent content in CA(C)line Lamarche on François Waldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/cacline-lamarche/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sentinel-2’s Potential for Sub-Pixel Landscape Feature Detection</title>
+      <link>/publication/journal-article/2016-01-01_radoux2016sentinel/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2016-01-01_radoux2016sentinel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

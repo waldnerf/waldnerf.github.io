@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Olivier Hagolle on François Waldner</title>
+    <link>/authors/olivier-hagolle/</link>
+    <description>Recent content in Olivier Hagolle on François Waldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/olivier-hagolle/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A generic algorithm to estimate LAI, FAPAR and FCOVER variables from SPOT4\_HRVIR and landsat sensors: evaluation of the consistency and comparison with ground measurements</title>
+      <link>/publication/journal-article/2015-01-01_li2015generic/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_li2015generic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land cover and crop type classification along the season based on biophysical variables retrieved from multi-sensor high-resolution time series</title>
+      <link>/publication/journal-article/2015-01-01_waldner2015land/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_waldner2015land/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

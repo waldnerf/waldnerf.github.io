@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marie-Julie Lambert on François Waldner</title>
+    <link>/authors/marie-julie-lambert/</link>
+    <description>Recent content in Marie-Julie Lambert on François Waldner</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="/authors/marie-julie-lambert/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cropland Mapping over Sahelian and Sudanian Agrosystems: A Knowledge-Based Approach Using PROBA-V Time Series at 100-m</title>
+      <link>/publication/journal-article/2016-01-01_lambert2016cropland/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2016-01-01_lambert2016cropland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Land cover and crop type classification along the season based on biophysical variables retrieved from multi-sensor high-resolution time series</title>
+      <link>/publication/journal-article/2015-01-01_waldner2015land/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/journal-article/2015-01-01_waldner2015land/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
